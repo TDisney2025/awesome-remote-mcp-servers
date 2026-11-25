@@ -408,6 +408,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [ScopeLinq](https://scopelinq.com/agents) `https://mcp.scopelinq.com/mcp`
   [![ScopeLinq MCP connector](https://glama.ai/mcp/connectors/com.scopelinq/scopelinq/badges/score.svg)](https://glama.ai/mcp/connectors/com.scopelinq/scopelinq)
   🔓 - Reads what was agreed into traced lines, then answers whether a new request is included or extra work.
+- [SignFlick](https://signflick.com) `https://signflick.com/mcp`
+  [![SignFlick MCP connector](https://glama.ai/mcp/connectors/com.signflick/sign-flick/badges/score.svg)](https://glama.ai/mcp/connectors/com.signflick/sign-flick)
+  🔐 - Upload a PDF, place signature fields, email it for signing and check status, with no account needed for signers.
 - [Signvoy](https://www.signvoy.com/developers/mcp) `https://api.signvoy.com/mcp`
   [![Signvoy MCP connector](https://glama.ai/mcp/connectors/com.signvoy/signvoy/badges/score.svg)](https://glama.ai/mcp/connectors/com.signvoy/signvoy)
   🔐 - Send documents for e-signature from templates, remind signers, and download signed PDFs with audit trails.
